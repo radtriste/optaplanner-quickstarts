@@ -4,7 +4,7 @@ plugins {
     id "java"
 }
 
-def optaplannerVersion = "3429.5.0"
+def optaplannerVersion = "3429.5.1-SNAPSHOT"
 
 group = "com.example"
 version = "0.1.0-SNAPSHOT"
